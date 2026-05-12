@@ -1,0 +1,49 @@
+{
+  "businessName": "House of Abundance",
+  "industry": "Fashion and Creative Design",
+  "tone": "warm and inviting",
+  "tagline": "Where Style Meets Creativity",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "House of Abundance - Where Style Meets Creativity. Discover exceptional fashion designs and creative solutions tailored to your unique taste. From bespoke clothing to innovative design services, we bring your vision to life with craftsmanship and elegance.",
+      "imagePrompt": "Stunning fashion design studio in Owerri Nigeria, elegant fabrics draped artistically, modern sewing equipment, colorful African prints and contemporary fashion pieces displayed, warm natural lighting, professional creative workspace, aspirational and inviting atmosphere",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "House of Abundance is Owerri's premier destination for fashion and creative design excellence. Located in the heart of Owerri Municipal, we specialize in transforming your fashion dreams into reality. Our team combines traditional craftsmanship with contemporary design techniques to deliver outstanding results. Whether you need custom clothing, fashion consulting, or creative design services, we provide personalized attention to every detail. We pride ourselves on understanding Nigerian fashion sensibilities while incorporating global trends, ensuring you always look your absolute best.",
+      "imagePrompt": "Professional Nigerian fashion designers at work in a bright studio, measuring fabrics, sketching designs, African and contemporary fashion pieces on display, collaborative creative environment, Owerri Nigeria setting, warm and professional atmosphere",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "**Bespoke Fashion Design** - Custom-made clothing crafted to your exact measurements and style preferences. From traditional Nigerian attire to modern contemporary pieces, every garment is a masterpiece.\n\n**Ready-to-Wear Collections** - Curated fashion pieces that blend African aesthetics with modern design, perfect for any occasion.\n\n**Fashion Consulting** - Expert advice on style, wardrobe building, and fashion trends tailored to your lifestyle and preferences.\n\n**Creative Design Services** - Innovative design solutions for fashion brands, events, and personal projects. We bring creative concepts to life.\n\n**Alterations & Tailoring** - Professional alterations and custom tailoring services to ensure the perfect fit for any garment.\n\n**Fashion Accessories** - Complementary accessories including bags, jewelry, and other fashion items to complete your look.",
+      "imagePrompt": "Grid layout of fashion design services, elegant clothing displays, fabric swatches, fashion sketches, tailoring equipment, accessories, modern Nigerian fashion boutique setting, professional photography, vibrant colors and textures",
+      "layout": "grid"
+    },
+    {
+      "id": "testimonials",
+      "name": "What Our Clients Say",
+      "copy": "**Chioma Okafor** - \"House of Abundance transformed my wedding wardrobe completely! The attention to detail and quality of work is unmatched in Owerri. I received so many compliments.\"\n\n**Mr. Emeka Nwachukwu** - \"Professional, creative, and reliable. They understood exactly what I wanted and delivered beyond expectations. My custom suits are perfectly tailored.\"\n\n**Ada Nnenna** - \"From concept to completion, the team at House of Abundance made the entire process seamless. Their creative designs are truly exceptional.\"\n\n**Pastor Mrs. Blessing** - \"I've been a loyal customer for over a year. The quality, craftsmanship, and customer service are outstanding. Highly recommended!\"",
+      "imagePrompt": "Happy Nigerian clients wearing beautiful custom-made fashion pieces, diverse group of satisfied customers, elegant clothing designs, professional photography, Owerri Nigeria setting, genuine smiles and confidence",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Visit Us Today",
+      "copy": "Ready to elevate your style? Visit House of Abundance today and experience the difference that quality craftsmanship makes. Our studio is conveniently located in Owerri Municipal, and we're here to serve you.\n\n**Location:** Comfort Hospital Okohia Worldbank, Owerri, Imo State\n\n**Phone:** 0706 496 9093\n\n**Area:** Owerri Municipal, Nigeria\n\nWhatsApp us for quick inquiries, consultations, or to schedule your fitting appointment. We look forward to creating something beautiful with you.",
+      "imagePrompt": "Welcoming fashion boutique storefront in Owerri Nigeria, modern exterior, clear signage, inviting entrance, professional business location, daytime photography, vibrant Nigerian commercial area",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "0706 496 9093",
+    "email": "",
+    "address": "Comfort Hospital Okohia Worldbank, Owerri, Imo State",
+    "whatsapp": "https://wa.me/2347064969093"
+  }
+}
